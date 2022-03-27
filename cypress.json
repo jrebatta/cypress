@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://emblue-qa-challenge.vercel.app/",
+  "chromeWebSecurity": false,
+  "testFiles": "**/*.feature"
+
+}

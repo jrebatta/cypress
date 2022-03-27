@@ -1,0 +1,20 @@
+{
+  "name": "cypress-cucumber-emblue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cucumber",
+    "cypress",
+    "javascript"
+  ],
+  "author": "jeraaa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.2",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
